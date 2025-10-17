@@ -6,13 +6,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/AlertByDennisM/vulnerability-management-program/blob/main/README.md)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-<hr/>
+
+
 
 ## 🤳 Connect With Me
 
@@ -24,7 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: www.linkedin.com/in/dennis-medder-4177a6143
+[linkedin]: www.linkedin.com/in/dennis-medder-4177a6143/
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
