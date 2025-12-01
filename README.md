@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/AlertByDennisM/threat-hunting-scenario-tor/blob/main/README.md)**
+  
+- **[Threat Hunting Scenario (JADE-SPIDER)](https://github.com/AlertByDennisM/JADE-SPIDER-Threat-Hunt/blob/main/README.md)**  
+  
+
 
 
 
