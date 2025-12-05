@@ -14,7 +14,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/AlertByDennisM/threat-hunting-scenario-tor/blob/main/README.md)**
   
 - **[Threat Hunting Scenario (JADE-SPIDER)](https://github.com/AlertByDennisM/JADE-SPIDER-Threat-Hunt/blob/main/README.md)**  
-  
+
+
+## 🛡️ Windows Hardening & STIG Compliance
+
+- **[Windows STIG Remediation Scripts (PowerShell Automation)](https://github.com/AlertByDennisM/windows-stig-remediation)**
+
+
 
 
 
